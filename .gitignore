@@ -99,10 +99,10 @@ out/
 *.res
 *.pch
 *.idb
+.venv/
 
 # Ignore user-specific .vcxproj.user files
 *.vcxproj.user
-
 *.sln
 *.vcxproj
 *.vcxproj.filters
